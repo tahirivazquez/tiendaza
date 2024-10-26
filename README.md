@@ -34,6 +34,6 @@ ejecutar
 npm install
 
 4. Escribir los tests en el archivo productos.test.js que está en la carpeta __tests__ (pueden
-encontrar el formato de los objetos “producto” en el archivo dentro de la carpeta api
+encontrar el formato de los objetos “producto” en el archivo dentro de la carpeta api).
 5. Crear un repo en github con ese proyecto y una vez terminado enviarnos la url del repo a
 marce.codof@gmail.com y mauri.codof@gmail.com
